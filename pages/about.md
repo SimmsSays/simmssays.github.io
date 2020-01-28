@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emily Simms
+title: About
 subtitle: All about me and my first love, tea #optional sub title to the post
 permalink: /about/
 header_feature_image:  /uploads/log.jpg #replace this for yours
