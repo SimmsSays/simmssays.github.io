@@ -64,6 +64,7 @@ lang: en_gb
 # change the following to your name or site name
 footer_text:
     "Copyright 2020 Emily Simms"
+    "Header image credits: Photo by Mukul Wadhwa on Unsplash"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
