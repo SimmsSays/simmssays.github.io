@@ -3,8 +3,8 @@ layout: post
 title: Here is a sample blog post
 date: 2019-10-19
 published: true
-header_feature_image: _uploads/tomatoes.jpg
-caption: "Juicy Tomatoes"
+header_feature_image: _uploads/bookcover.jpg
+caption: "book cover "
 tags:
   - Journalism
   - Life
@@ -24,7 +24,7 @@ Dependent certainty off discovery him his tolerably offending. Ham for attention
 
 Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
 
-## Here is a an image
+## Here is an image
 
 [![Wooden Type](/_uploads/type.jpg)](/_uploads/type.jpg)
 
