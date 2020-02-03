@@ -1,18 +1,27 @@
 ---
 layout: page
 title: About
-subtitle: "All about me and my first love, tea" #optional sub title to the post
+subtitle: "the premise of the blog" #optional sub title to the post
 permalink: /about/
 header_feature_image:  /uploads/secondheader.jpg #replace this for yours
 tags:
 published: true
 description:
 ---
+# About me
+I am currently in my final semester of my year of my undergraduate studies. There are three very important things that you should know about me:
+1. I love tea, as you can see ^^^
+2. I love books, but have unlovingly put them on the back burner whilst I muddle myself through this term
+3. I am very unsure about a lot of things in my life, so in to the premise of the blog...
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+# The premise of the blog
+**The life of a third year university student can be difficult when trying to
+balance everything you want to do, with everything you need to do. From eating
+well, to having enough money, working for that money and then managing your
+workload, it can be rather difficult, adulting for the first time.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Each week, i'll have a short Q&A with another third year student covering
+one important section of our lives and how we find time to make it work, how
+much we value it and if there's a way to find that 'imperfect balance' we
+always feel is slipping away from us as graduation looms closer.**
