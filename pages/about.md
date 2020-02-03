@@ -16,7 +16,7 @@ I am currently in my final semester of my year of my undergraduate studies. Ther
 
 
 # The premise of the blog
-**The life of a third year university student can be difficult when trying to
+The life of a third year university student can be difficult when trying to
 balance everything you want to do, with everything you need to do. From eating
 well, to having enough money, working for that money and then managing your
 workload, it can be rather difficult, adulting for the first time.
@@ -24,4 +24,4 @@ workload, it can be rather difficult, adulting for the first time.
 Each week, i'll have a short Q&A with another third year student covering
 one important section of our lives and how we find time to make it work, how
 much we value it and if there's a way to find that 'imperfect balance' we
-always feel is slipping away from us as graduation looms closer.**
+always feel is slipping away from us as graduation looms closer.
