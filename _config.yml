@@ -51,19 +51,20 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: "a strong brew of writing"
+header_text: "Striving for an imperfect balance "
 
 recipecollection: Your recipe collection
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /uploads/secondheader.jpg
-recipe_bookcover: /uploads/bookcover.jpg
+recipe_bookcover: /uploads/blog post 1 header.jpg
 
 twitter_username:   #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2020 Emily Simms. Header image credits: Photo by Mukul Wadhwa on Unsplash"
+    "Copyright 2020 Emily Simms.
+    Header image credits: Photo by Mukul Wadhwa on Unsplash"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
@@ -75,7 +76,7 @@ instagram:
 linkedin:  # Full URL
 pinterest:
 soundcloud:
-twitter: # "twitter username"
+twitter: @Emi1y_Simms
 youtube:
 
 # Sharing options
