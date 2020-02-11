@@ -4,7 +4,7 @@ title: Blogging (What is it good for? Absolutely… everything)
 date: 2020-02-03
 published: true
 header_feature_image: _uploads/blogpost1header.jpg
-caption: "write something "
+caption: " read more "
 tags:
   - Blogging
   - Life
