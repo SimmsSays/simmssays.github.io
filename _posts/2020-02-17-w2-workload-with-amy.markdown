@@ -2,7 +2,7 @@
 layout: post
 title: W2 Workload with Amy
 date: 2020-02-17 11:43
-published: false
+published: true 
 header_feature_image:
 caption:
 tags:  
