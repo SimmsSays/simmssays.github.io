@@ -5,7 +5,7 @@ subtitle: My Recipe Site #optional sub title to the post
 permalink: /recipes/
 tags:
 published: true
-hide: true  
+hide: false  
 ---
 
 Here is an introduction to my recipe site
