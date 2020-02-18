@@ -61,26 +61,26 @@ One of the absolute staples of a cheese lover's diet are the one and only mozzar
 
 ## Method
 ### Make the Mozzarella:
-- Blend everything under mozzarella into a smooth puree. Taste and adjust salt and tang if needed.
-- Pour into a pan and cook at medium heat, stirring frequently to avoid burning, for 8-10 minutes until the mixture is really thick and starts to leave the pan (or is at a soft lightly sticky dough stage).
-- Grease a small bread pan or other pan with extra virgin olive oil and drop the mozzarella in it.
-- Even it out using a spatula.
-- Cool completely, cover the pan and Let set in the refrigerator for an hour or more.
+1. Blend everything under mozzarella into a smooth puree. Taste and adjust salt and tang if needed.
+2. Pour into a pan and cook at medium heat, stirring frequently to avoid burning, for 8-10 minutes until the mixture is really thick and starts to leave the pan (or is at a soft lightly sticky dough stage).
+3. Grease a small bread pan or other pan with extra virgin olive oil and drop the mozzarella in it.
+4. Even it out using a spatula.
+5. Cool completely, cover the pan and Let set in the refrigerator for an hour or more.
 
 ### Set up the Breading station when ready to bake:
-- Keep flour in one plate.
-- Mix everything under Breading Wet in a bowl.
-- Mix everything under Breading Dry in another deep plate or bowl.
-- Remove the cheese from the pan and slice the Mozzarella into about 1/4 inch thin slices.
-- Keep the slices small since the breading is going to increase the size by 2 or 3 times.
-- Roll each slice in flour.
-- Then dip it in the wet mixture, then dip in the breadcrumbs to coat well.
-- Place on parchment lined sheet. Bread all the slices and freeze for 10 minutes.
+1. Keep flour in one plate.
+2. Mix everything under Breading Wet in a bowl.
+3. Mix everything under Breading Dry in another deep plate or bowl.
+4. Remove the cheese from the pan and slice the Mozzarella into about 1/4 inch thin slices.
+5. Keep the slices small since the breading is going to increase the size by 2 or 3 times.
+6. Roll each slice in flour.
+7. Then dip it in the wet mixture, then dip in the breadcrumbs to coat well.
+8. Place on parchment lined sheet. Bread all the slices and freeze for 10 minutes.
 
 ## Time to Bake!
-- Freeze the breaded mozzarella for 15 minutes.
-- Pre-heat the oven to 450 degrees.
-- Remove moxy sticks from freezer, spray oil or brush oil on the sticks.
-- Bake for 4 minutes.
-- Move the sheet to the top level of the oven and broil for 1 minute or until the breading starts to brown.  
-- Remove and serve immediately. Enjoy!
+1. Freeze the breaded mozzarella for 15 minutes.
+2. Pre-heat the oven to 450 degrees.
+3. Remove mozzarella sticks from freezer, spray oil or brush oil on the sticks.
+4. Bake for 4 minutes.
+5. Move the sheet to the top level of the oven and broil for 1 minute or until the breading starts to brown.  
+6. Remove and serve immediately. Enjoy!
