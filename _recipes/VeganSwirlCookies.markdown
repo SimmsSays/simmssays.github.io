@@ -4,7 +4,7 @@ title: Vegan Cream Cheese Swirl Cookies
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 5
+order: 6
 tags:
   - Vegan
   - Cheese
