@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Moussaka
+title: Mozzarella Sticks 
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -17,7 +17,7 @@ One of the absolute staples of a cheese lover's diet are the one and only mozzar
 
 <!--more-->
 
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
+[![Mozzarella Sticks](/_uploads/MozzarellaSticks.jpg)](/_uploads/MozzarellaSticks.jpg)
 
 ## Makes 11-12 sticks
 ## Prep Time: 30 minutes
