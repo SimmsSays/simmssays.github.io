@@ -1,53 +1,55 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Cauliflower Mac and Cheese
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
+  - Vegan
+  - Cheese
   - Main
 ---
 
-# Recipe Title
-
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Cauliflower Mac and Cheese
+The ultimate cheesy main: a macaroni cheese. Combining cauliflower, vegan cream cheese and cashews to produce the tasty classic, this recipe is an absolute must. Don't take our word for it, cook it! 
 
 <!--more-->
+## Makes 4 servings
+
+## Prep Time: 15 minutes
+## Cook Time: 35 minutes
+## Total Time: 50 minutes
+
 
 ## Ingredients
-
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+- 1 medium cauliflower, cut into florets
+- 1 carrot, chopped
+- 6 garlic cloves
+- 3 tablespoons olive oil
+- 2 cups macaroni pasta or pasta of your choice
+- 1 cup almond milk
+- 1/4 cup apple cider vinegar
+- 1 tablespoon white miso
+- 1/3 cup vegan cream cheese
+- 1/4 cup nutritional yeast
+- 1/2 cup raw cashews
+- 1/4 teaspoon red cayenne pepper
+- 1 teaspoon smoked paprika
+- 1/2 teaspoon garlic powder
+- 1/4 teaspoon turmeric
+- 1/2 teaspoon black pepper
+- 2 tablespoons dry mint leaf flakes
+- 1 teaspoon sea salt
+- 2 tablespoons vegan butter
 
 
 ## Method
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Set the oven 400°F.
+2. Place the cauliflower florets and the carrots into an oven dish, add two tablespoons of the olive oil and mix.
+3. Wrap the garlic cloves in aluminum foil together with the remainder of the olive oil.
+4. Oven roast the vegetables and the garlic for about 25-30 minutes.
+5. In the meantime, cook the pasta according to package directions, drain, and set aside.
+6. In a high-speed blender, blend the roasted cauliflower and carrot mix, the roasted garlic, and all the other ingredients except the macaroni and the vegan butter. Blend until you get a very smooth mixture.
+7. For a more cheesy taste, let this sauce wait at room temperature for one to two hours.
+8. Add the vegan butter and the macaroni pasta in a large pan, stir and cook for about one minute until the butter melts and the macaroni is coated uniformly. Add the cheese sauce, stir and cook for about 5 more minutes.
