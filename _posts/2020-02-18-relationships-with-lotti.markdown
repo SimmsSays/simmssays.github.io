@@ -13,7 +13,7 @@ tags:
 
 Each week a different piece of a Uni student’s life will be covered, whether it’s workload, relationships, friendships, etc. There is no definitive guide of managing these things, but all we can hope for is finding an imperfect balance.
 
-[![lotti](/_uploads/lotti.jpg)](/_uploads/lotti.jpg)
+[![Lotti, the woman, the myth, the legend](/_uploads/lotti.jpg)](/_uploads/lotti.jpg)
 
 
 
