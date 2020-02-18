@@ -3,7 +3,7 @@ layout: post
 title: Relationships Q&A with Lotti
 date: 2020-02-18 11:14
 published: true
-header_feature_image: _uploads/loveheader.jpg
+header_feature_image: _uploads/lottiheader2.jpg
 caption: Relationships
 tags:  
 - Relationships
