@@ -12,9 +12,11 @@ tags:
 ---
 
 # Cauliflower Mac and Cheese
-The ultimate cheesy main: a macaroni cheese. Combining cauliflower, vegan cream cheese and cashews to produce the tasty classic, this recipe is an absolute must. Don't take our word for it, cook it! 
+The ultimate cheesy main: a macaroni cheese. Combining cauliflower, vegan cream cheese and cashews to produce the tasty classic, this recipe is an absolute must. Don't take our word for it, cook it!
 
 <!--more-->
+[![Macaroni Cheese](/_uploads/macaronicheese.jpg)](/_uploads/macaronicheese.jpg)
+
 ## Makes 4 servings
 
 ## Prep Time: 15 minutes
