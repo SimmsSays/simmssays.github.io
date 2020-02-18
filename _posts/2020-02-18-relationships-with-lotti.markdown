@@ -2,10 +2,12 @@
 layout: post
 title: Relationships Q&A with Lotti
 date: 2020-02-18 11:14
-published: false
-header_feature_image:
-caption:
-tags:    # use [tag1,tag2]
+published: true
+header_feature_image: _uploads/loveheader.jpg
+caption: Relationships
+tags:  
+- Relationships
+- Long distance  
 ---
 **Lotti** is a **third-year English student**, who’s been in a long-distance **relationship** since she started Uni. Before that, she worked and went travelling, and has the Instagram to prove it. Lotti’s beau is a science teacher, so between them, have a busy lifestyle, but still find time to see each-other as regularly as they can.
 
