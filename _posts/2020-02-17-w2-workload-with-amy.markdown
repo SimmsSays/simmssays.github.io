@@ -13,7 +13,7 @@ tags:
 
 **Amy** is a **third-year** combined **Publishing Media student**, who commutes to Uni everyday. Whilst being at Uni, she’s had a steady part-time job, visited Thailand, Venice… basically she’s travelled a lot, but still finds time to sit down and answer some of my questions. This week’s blog post is a short Q&A about managing workload and that commonality that all students share: stress! Each week a different piece of a Uni student’s life will be covered, whether it’s workload, relationships, friendships, etc. There is no definitive guide of managing these things, but all we can hope for is finding an imperfect balance.
 
-[![](//_uploads/amy1.jpg)](//_uploads/amy1.jpg)
+[![Amy gordon](/_uploads/amy1.jpg)](/_uploads/amy1.jpg)
 
 
 
