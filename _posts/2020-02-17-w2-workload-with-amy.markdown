@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Workload: Q&A with Amy
-date: 2020-02-10 
+title: Workload Q&A with Amy
+date: 2020-02-10
 published: true
 header_feature_image:
 caption:
