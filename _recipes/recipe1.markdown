@@ -11,49 +11,75 @@ tags:
   - Hot
 ---
 
-# Moussaka
-
-There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+# Mozzarella Sticks
+One of the absolute staples of a cheese lover's diet are the one and only mozzarella sticks! In just 35 minutes you can enjoy this tasty snack, swapping dairy mozzarella for a tasty cashew substitute. We promise you won't be disappointed... 
 
 <!--more-->
 
 [![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
 
-## Ingredients
+## Makes 11-12 sticks
+## Prep Time: 30 minutes
+## Cook Time: 5 minutes
+## Total Time: 35 minutes
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+## Ingredients:
+
+### Cashew Mozzarella:
+- 1/2 cup raw cashews, soaked for 2 hours or overnight
+- 1/2 cup almond milk
+- 2 tsp tapioca starch
+- 1 tsp cornstarch or arrowroot starch
+- 1/4 tsp agar powder
+- 1/2 tsp fine sea salt
+- 1/2 tsp apple cider vinegar
+- 1/2 tsp lemon juice
+- 1 tsp nutritional yeast
+- 2 tsp extra virgin olive oil
+- 1 Tbsp vegan butter (or evoo)
+- a generous pinch of kala namak (black salt)
+- a generous pinch of onion powder
+- 1/4 tsp pepper flakes
+
+### Breading
+- 1/4 cup flour
+
+### Breading Wet
+- 1/4 cup water
+- 1/4 cup almond milk
+- 2 Tbsp flour
+- 1 Tbsp flaxmeal
+- 1/4 tsp each of garlic powder, salt, smoked paprika
+
+### Breading Dry
+- 1/2 cup bread crumbs
+- 1/4 tsp each of salt, red pepper flakes, black pepper
+- 1/2 tsp italian herb blend (oregano, basil, thyme, rosemary)
 
 
 ## Method
+### Make the Mozzarella:
+- Blend everything under mozzarella into a smooth puree. Taste and adjust salt and tang if needed.
+- Pour into a pan and cook at medium heat, stirring frequently to avoid burning, for 8-10 minutes until the mixture is really thick and starts to leave the pan (or is at a soft lightly sticky dough stage).
+- Grease a small bread pan or other pan with extra virgin olive oil and drop the mozzarella in it.
+- Even it out using a spatula.
+- Cool completely, cover the pan and Let set in the refrigerator for an hour or more.
 
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
+### Set up the Breading station when ready to bake:
+- Keep flour in one plate.
+- Mix everything under Breading Wet in a bowl.
+- Mix everything under Breading Dry in another deep plate or bowl.
 
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
+- Remove the cheese from the pan and slice the Mozzarella into about 1/4 inch thin slices.
+- Keep the slices small since the breading is going to increase the size by 2 or 3 times.
+- Roll each slice in flour.
+- Then dip it in the wet mixture, then dip in the breadcrumbs to coat well.
+- Place on parchment lined sheet. Bread all the slices and freeze for 10 minutes.
 
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
-
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
-
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
-
-- Serves: 6
-- Preparation time: 1 hour
+## Time to Bake!
+- Freeze the breaded mozzarella for 15 minutes.
+- Pre-heat the oven to 450 degrees.
+- Remove moxy sticks from freezer, spray oil or brush oil on the sticks.
+- Bake for 4 minutes.
+- Move the sheet to the top level of the oven and broil for 1 minute or until the breading starts to brown.  
+- Remove and serve immediately. Enjoy!
