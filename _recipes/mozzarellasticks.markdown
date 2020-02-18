@@ -4,7 +4,7 @@ title: Mozzarella Sticks
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order:
+order: 2
 tags:
   - Mozzarella
   - Vegan
