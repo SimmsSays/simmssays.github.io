@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Mozzarella Sticks 
+title: Mozzarella Sticks
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -20,6 +20,7 @@ One of the absolute staples of a cheese lover's diet are the one and only mozzar
 [![Mozzarella Sticks](/_uploads/MozzarellaSticks.jpg)](/_uploads/MozzarellaSticks.jpg)
 
 ## Makes 11-12 sticks
+
 ## Prep Time: 30 minutes
 ## Cook Time: 5 minutes
 ## Total Time: 35 minutes
@@ -70,7 +71,6 @@ One of the absolute staples of a cheese lover's diet are the one and only mozzar
 - Keep flour in one plate.
 - Mix everything under Breading Wet in a bowl.
 - Mix everything under Breading Dry in another deep plate or bowl.
-
 - Remove the cheese from the pan and slice the Mozzarella into about 1/4 inch thin slices.
 - Keep the slices small since the breading is going to increase the size by 2 or 3 times.
 - Roll each slice in flour.
