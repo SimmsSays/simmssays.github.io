@@ -4,10 +4,10 @@ title: Workload Q&A with Amy
 date: 2020-02-10
 published: true
 header_feature_image: _uploads/amyheader.jpg
-caption:
+caption: "Planning"  
 tags:  
 - workload
-- stress   # use [tag1,tag2]
+- stress   
 ---
 
 
