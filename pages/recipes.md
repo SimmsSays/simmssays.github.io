@@ -5,13 +5,12 @@ subtitle: My Recipe Site #optional sub title to the post
 permalink: /recipes/
 tags:
 published: true
-hide: false  
+hide: false
+
 ---
+This recipe site consists of an assortment of dishes which feature different types of vegan cheese for those who are missing cheese in their everyday life.
 
-Here is an introduction to my recipe site
+It is perfect for anyone wanting to find gouda alternatives to incorporate into their vegan lifestyle. From the classic comfort of macaroni cheese, to a flavourful quesadilla, there are so many ways for dairy-free cheese to be utilised, to make every mouthful delicious. All of the vegan cheeses featured in this recipe book are readily available in most supermarkets, so don’t let anything hold you back!
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vegan cheese may have a bad reputation, but you won’t brie-lieve how tasty it can be in the right dish!
