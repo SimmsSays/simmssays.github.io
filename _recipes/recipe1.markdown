@@ -6,13 +6,14 @@ excerpt_separator: <!--more-->
 published: true
 order:
 tags:
-  - Greek
-  - Meat
-  - Hot
+  - Mozzarella
+  - Vegan
+  - Cheese
+  - Snack
 ---
 
 # Mozzarella Sticks
-One of the absolute staples of a cheese lover's diet are the one and only mozzarella sticks! In just 35 minutes you can enjoy this tasty snack, swapping dairy mozzarella for a tasty cashew substitute. We promise you won't be disappointed... 
+One of the absolute staples of a cheese lover's diet are the one and only mozzarella sticks! In just 35 minutes you can enjoy this tasty snack, swapping dairy mozzarella for a tasty cashew substitute. We promise you won't be disappointed...
 
 <!--more-->
 
