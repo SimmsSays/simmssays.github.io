@@ -4,7 +4,7 @@ title: Home Q&A with Jo
 date: 2020-02-24 10:26
 published: true
 header_feature_image: _uploads/JosHeader.jpg
-caption:
+caption: Home 
 tags:   
 - Homesickness
 - Family
