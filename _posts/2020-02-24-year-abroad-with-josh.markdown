@@ -1,6 +1,6 @@
 ---
 layout: post
-title: year abroad with josh
+title: Year-Abroad Q&A with Josh
 date: 2020-02-24 11:06
 published: true
 header_feature_image: _uploads/JoshHeader.jpg
