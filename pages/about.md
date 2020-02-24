@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: "the premise of the blog" #optional sub title to the post
+subtitle: "the premise of the blog" 
 permalink: /about/
-header_feature_image:  /uploads/secondheader.jpg #replace this for yours
+header_feature_image:  /_uploads/secondheader.jpg
 tags:
 published: true
 description:
