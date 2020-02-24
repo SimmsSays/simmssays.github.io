@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Home Q&A with Jo
-date: 2020-02-24 10:26
+title: Homesickness with Jo
+date: 2020-02-24 11:07
 published: true
 header_feature_image: _uploads/JosHeader.jpg
-caption: Home 
-tags:   
-- Homesickness
-- Family
-- University
+caption:
+tags:
 
 ---
+
 **Jo** is a third-year Publishing and English Lit student, who also doubles as a superwoman. She has a part-time job, an insane work ethic, and is also one of the kindest people I have ever met. In this Q&A she opens up about **homesickness** and balancing uni, whilst trying to go home as often as she can. Homesickness can be a common feeling experienced by students, but can also be very isolating because it’s not something people tend to talk about in fear of being ridiculed. But it happens and we should talk about, so over to Jo…
 
 [![Jo, a real-life superhero](/_uploads/Jo.jpg)](/_uploads/Jo.jpg)
