@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homesickness with Jo
+title: Homesickness Q&A with Jo
 date: 2020-02-24 11:07
 published: true
 header_feature_image: _uploads/JosHeader.jpg
