@@ -14,6 +14,7 @@ tags:
 # Cheesy Lentil Lasagne
 The Italian classic with a vegan twist. Full with herbs and spices, vegetables galore and three cheeses, what more could you want?
 
+<!--more-->
 
 [![Cheesy Lentil Lasagne](/_uploads/veganlasagne.jpg)](/_uploads/veganlasagne.jpg)
 
