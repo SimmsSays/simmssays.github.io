@@ -10,7 +10,7 @@ tags:
 - University
 
 ---
-Josh is a third-year law student, who is currently studying on a **year-abroad** in Vienna. In this Q &amp; A he talks about his experiences and shares a **positive outlook** on stepping outside of his comfort zone, and trying something new. During his time at university, he has made a great group of friends, became a committee member of a law society, and has loved the city he has predominantly studied in, so taking on a year abroad wasn’t something you would necessarily expect him to do. But, he has embraced this rare opportunity, and he's thriving...
+Josh is a third-year law student, who is currently studying on a **year-abroad** in Vienna. In this Q & A he talks about his experiences and shares a **positive outlook** on stepping outside of his comfort zone, and trying something new. During his time at university, he has made a great group of friends, became a committee member of a law society, and has loved the city he has predominantly studied in, so taking on a year abroad wasn’t something you would necessarily expect him to do. But, he has embraced this rare opportunity, and he's thriving...
 
 [![Joshua, an old friend and year-abroad maestro (second on the left)](/_uploads/JoshuasFace.jpg)](/_uploads/JoshuasFace.jpg)
 
