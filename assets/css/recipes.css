@@ -1,9 +1,9 @@
-/*! CSS adapted from  type theme */
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    background: #fff;
+    background:white;
+
 }
 
 .post-content h1, .excerpt h1 {
@@ -11,13 +11,43 @@ html {
 }
 
 img {
-  float:right;
+  float: right;
   max-width: 50%;
+
+}
+h1 class="site-title"{
+  color: yellow;
 }
 
+header.site-header{
+  border: 5px solid rgb(166, 147, 184);
+  width: 60%;
+  min-width: -width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px 20px;
+
+}
+
+.content {
+  border: 20px 2px solid purple ;
+  width: 60%;
+  min-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px 20px;
+
+
+}
+
+
+
+
+}
 h1.title {
-  font-size:2em;
-  color:red;
+  font-size:3em;
+  font-family: serif, palantino;
+  float: center;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
@@ -27,18 +57,46 @@ main, menu, nav, section, summary {
 
 body {
     font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
+    color: rgb(166, 147, 184);
     margin: 30px;
     font-size: 1.25em;
 }
 
-h1.site-title {
+h1.site-header {
 font-size: 2.5em;
+color: yellow;
+
+}
+
+h1 {
+color: grey;
+font-family: Chalkduster, fantasy;
+
+
+}
+h2 {
+text-align: left;
+color:grey;
+background: none ;
+font-family: Chalkduster, fantasy;
+padding: 20px 4px;
+
+
+}
+h3 {
+color: rgb(237, 222, 117);
+
+
 }
 
 img.cover {
-float:right;
-width:30%;
+/* float:right; */
+width:15%;
 margin:12px;
+position:absolute;
+right: 0;
+top: 18px;
+
 }
 
 
@@ -70,8 +128,8 @@ hr {
 }
 
 a {
-    color: #337ab7;
-    text-decoration: none
+    color: rgb(237, 222, 117);
+    text-decoration:none;
 }
 
 /* for a menu for all recipes */
