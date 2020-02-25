@@ -17,11 +17,10 @@ One of the hardest things about choosing to be vegan, is leaving behind a cheesy
 <!--more-->
 [![Vegan Pizza](/_uploads/veganpizza.jpg)](/_uploads/veganpizza.jpg)
 
-## Makes 8 servings
-
-## Prep Time: 20 minutes
-## Cook Time: 30 minutes
-## Total Time: 50 minutes
+### Makes 8 servings
+### Prep Time: 20 minutes
+### Cook Time: 30 minutes
+### Total Time: 50 minutes
 
 ## Ingredients
 ### For the Pizza Dough

@@ -12,16 +12,15 @@ tags:
 ---
 
 # Vegan Cheesy Gnocci
-One of the easier recipes on this blog, but still to die for, is the vegan cheesy gnocci. Using fresh ingredients, this dish is a healthy delight that will become part of your weekly meals. 
+One of the easier recipes on this blog, but still to die for, is the vegan cheesy gnocci. Using fresh ingredients, this dish is a healthy delight that will become part of your weekly meals.
 
 <!--more-->
 [![Gnocci](/_uploads/gnocci.jpg)](/_uploads/gnocci.jpg)
 
-## Makes 4 servings
-
-## Prep Time: 5 minutes
-## Cook Time: 35 minutes
-## Total Time: 40 minutes
+### Makes 4 servings
+### Prep Time: 5 minutes
+### Cook Time: 35 minutes
+### Total Time: 40 minutes
 
 ## Ingredients
 - 200 g Violife Creamy Original

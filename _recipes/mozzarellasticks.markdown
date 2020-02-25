@@ -19,11 +19,10 @@ One of the absolute staples of a cheese lover's diet are the one and only mozzar
 
 [![Mozzarella Sticks](/_uploads/MozzarellaSticks.jpg)](/_uploads/MozzarellaSticks.jpg)
 
-## Makes 11-12 sticks
-
-## Prep Time: 30 minutes
-## Cook Time: 5 minutes
-## Total Time: 35 minutes
+### Makes 11-12 sticks
+### Prep Time: 30 minutes
+### Cook Time: 5 minutes
+### Total Time: 35 minutes
 
 ## Ingredients:
 

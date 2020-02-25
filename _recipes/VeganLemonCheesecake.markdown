@@ -17,11 +17,10 @@ In 7 simple steps you can make a delicious vegan lemon cheesecake without an has
 <!--more-->
 [![Lemon Cheesecake](/_uploads/LemonCheesecake.jpg)](/_uploads/LemonCheesecake.jpg)
 
-## Makes 8 servings
-
-## Prep Time: 2hrs 30 minutes
-## Cook Time: 0 minutes
-## Total Time: 2hrs 30 minutes
+### Makes 8 servings
+### Prep Time: 2hrs 30 minutes
+### Cook Time: 0 minutes
+### Total Time: 2hrs 30 minutes
 
 ## Ingredients
 ### For the base:

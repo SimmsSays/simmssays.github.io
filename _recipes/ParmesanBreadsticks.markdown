@@ -17,11 +17,10 @@ Simple vegan pesto breadsticks topped with vegan parmesan cheese. Wholesome, dai
 <!--more-->
 [![Vegan Pesto Parmesan Breadsticks](/_uploads/newpestobreadstick.jpg)](/_uploads/newpestobreadstick.jpg)
 
-## Makes 12 breadsticks
-
-## Prep Time: 20 minutes
-## Cook Time: 12 minutes
-## Total Time: 32 minutes
+### Makes 12 breadsticks
+### Prep Time: 20 minutes
+### Cook Time: 12 minutes
+### Total Time: 32 minutes
 
 
 ## Ingredients

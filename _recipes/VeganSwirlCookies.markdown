@@ -17,11 +17,10 @@ Although the title of the dish might be a mouthful, it's certainly a delicous on
 <!--more-->
 [![Vegan Cream Cheese Swirl Cookies](/_uploads/vegancookies.jpg)](/_uploads/vegancookies.jpg)
 
-## Makes 15 servings
-
-## Prep Time: 20 minutes
-## Cook Time: 12 minutes
-## Total Time: 32 minutes
+### Makes 15 servings
+### Prep Time: 20 minutes
+### Cook Time: 12 minutes
+### Total Time: 32 minutes
 
 ## Ingredients
 - 4 tablespoons unsalted vegan margarine room temp

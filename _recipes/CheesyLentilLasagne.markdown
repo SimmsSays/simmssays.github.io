@@ -17,11 +17,10 @@ The Italian classic with a vegan twist. Full with herbs and spices, vegetables g
 
 [![Cheesy Lentil Lasagne](/_uploads/veganlasagne.jpg)](/_uploads/veganlasagne.jpg)
 
-## Makes 6-8 servings
-
-## Prep Time: 15 minutes
-## Cook Time: 75 minutes
-## Total Time: 90 minutes
+### Makes 6-8 servings
+### Prep Time: 15 minutes
+### Cook Time: 75 minutes
+### Total Time: 90 minutes
 
 ## Ingredients
 ### For the Lentil Bolognese Sauce:

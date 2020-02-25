@@ -17,11 +17,10 @@ The ultimate cheesy main: a macaroni cheese. Combining cauliflower, vegan cream 
 <!--more-->
 [![Macaroni Cheese](/_uploads/macaronicheese.jpg)](/_uploads/macaronicheese.jpg)
 
-## Makes 4 servings
-
-## Prep Time: 15 minutes
-## Cook Time: 35 minutes
-## Total Time: 50 minutes
+### Makes 4 servings
+### Prep Time: 15 minutes
+### Cook Time: 35 minutes
+### Total Time: 50 minutes
 
 
 ## Ingredients

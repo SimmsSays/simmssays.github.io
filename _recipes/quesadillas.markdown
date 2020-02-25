@@ -17,11 +17,10 @@ No quesadilla is complete without a lashing of cheese, and this recipe is no exc
 <!--more-->
 [![Quesadillas](/_uploads/quesadillas.jpg)](/_uploads/quesadillas.jpg)
 
-## Makes 4 servings
-
-## Prep Time: 10 minutes
-## Cook Time: 50 minutes
-## Total Time: 1 hour
+### Makes 4 servings
+### Prep Time: 10 minutes
+### Cook Time: 50 minutes
+### Total Time: 1 hour
 
 ## Ingredients
 - 2 medium sweet potatoes peeled and sliced

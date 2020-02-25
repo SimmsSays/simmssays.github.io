@@ -17,11 +17,10 @@ Simple but necessary in every cheese lover's life, a fondue is more than one cou
 <!--more-->
 [![Vegan Fondue](/_uploads/VeganFondue.jpg)](/_uploads/VeganFondue.jpg)
 
-## Makes 2 servings
-
-## Prep Time: 5 minutes
-## Cook Time: 10 minutes
-## Total Time: 15 minutes
+### Makes 2 servings
+### Prep Time: 5 minutes
+### Cook Time: 10 minutes
+### Total Time: 15 minutes
 
 ## Ingredients
 ### For the Fondue
