@@ -4,7 +4,7 @@ title: Vegan Cheese Fondue
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 5
+order: 10
 tags:
   - Vegan
   - Cheese

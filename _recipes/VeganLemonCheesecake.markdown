@@ -4,7 +4,7 @@ title: Vegan Lemon Cheesecake
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 5
+order: 8
 tags:
   - Vegan
   - Cheese

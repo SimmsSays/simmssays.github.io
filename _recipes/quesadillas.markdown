@@ -4,7 +4,7 @@ title: Roasted Sweet Potato and Bean Quesadillas
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 4
+order: 6
 tags:
   - Vegan
   - Cheese
