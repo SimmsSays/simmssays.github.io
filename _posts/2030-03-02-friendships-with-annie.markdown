@@ -10,7 +10,7 @@ tags:
 - University
 
 ---
-Annie is a third-year english student, two months away from leaving the uni bubble. She is the perfect person to talk about this week's theme of **friendships** with, because as she says so herself, she's had to _kiss a few frogs_ to be able to make the genuine friendships that she has. In this Q&A, she shares her experiences of leaving home for the first time, the realities of friendships in your 20's and her tips on finding the right people for you.
+**Annie** is a third-year english student, two months away from leaving the uni bubble. She is the perfect person to talk about this week's theme of **friendships** with, because as she says so herself, she's had to kiss a few frogs to be able to make the genuine friendships that she has. In this Q&A, she shares her experiences of leaving home for the first time, the realities of friendships in your 20's and her tips on finding the right people for you.
 
 [![The absolute queen that is Annie G, with photo creds to Lotti R](/_uploads/Annie.jpg)](/_uploads/Annie.jpg)
 
