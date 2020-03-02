@@ -9,7 +9,7 @@ tags:
 - Relationships
 - Long distance  
 ---
-**Lotti** is a **third-year English student**, who’s been in a long-distance **relationship** since she started Uni. Before that, she worked and went travelling, and has the Instagram to prove it. Lotti’s beau is a science teacher, so between them, have a busy lifestyle, but still find time to see each-other as regularly as they can.
+**Lotti** is a **third-year english student**, who’s been in a long-distance **relationship** since she started Uni. Before that, she worked and went travelling, and has the Instagram to prove it. Lotti’s beau is a science teacher, so between them, have a busy lifestyle, but still find time to see each-other as regularly as they can.
 
 Each week a different piece of a Uni student’s life will be covered, whether it’s workload, relationships, friendships, etc. There is no definitive guide of managing these things, but all we can hope for is finding an imperfect balance.
 
