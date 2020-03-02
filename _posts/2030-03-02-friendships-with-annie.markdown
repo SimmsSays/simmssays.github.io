@@ -4,7 +4,7 @@ title: Friendships with Annie
 date: 2020-03-02 16:02
 published: true
 header_feature_image: _uploads/AnnieHEADER.jpg
-caption: Friendship 
+caption: Friendship
 tags:
 - Friendships
 - University
