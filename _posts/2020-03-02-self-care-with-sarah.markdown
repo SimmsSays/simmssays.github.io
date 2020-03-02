@@ -2,7 +2,7 @@
 layout: post
 title: Self Care with Sarah
 date: 2020-03-02 16:41
-published: false
+published: true 
 header_feature_image:  _uploads/SarahHEADER.jpg
 caption: Self-Care
 tags:  
