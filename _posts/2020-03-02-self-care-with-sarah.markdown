@@ -11,6 +11,7 @@ tags:
 - Stress  
 ---
 **Sarah** is a third-year student, who took some time out to travel for a year before starting uni. Throughout her time at uni, she's realised the importance of taking time out for yourself, when everyday life can get a bit too much. Without further ado, here is Sarah's thoughts on **self-care**...
+
 [![Sarah, a self-care queen who can rock a pair of dungarees](/_uploads/Sarah.jpg)](/_uploads/Sarah.jpg)
 
 **Q:** How much do you value me-time?
