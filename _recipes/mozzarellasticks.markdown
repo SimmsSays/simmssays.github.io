@@ -66,7 +66,7 @@ One of the absolute staples of a cheese lover's diet are the one and only mozzar
 4. Even it out using a spatula.
 5. Cool completely, cover the pan and Let set in the refrigerator for an hour or more.
 
-### Set up the Breading station when ready to bake:
+### Set up the breading station when ready to bake:
 1. Keep flour in one plate.
 2. Mix everything under Breading Wet in a bowl.
 3. Mix everything under Breading Dry in another deep plate or bowl.
