@@ -107,6 +107,8 @@ background:  rgb(193, 192, 203);
 }
 
 
+
+
 blockquote {
 
 }
@@ -120,6 +122,19 @@ td, th {
 
 }
 
+header.site-header {
+  width: 100%;
+  text-align: left;
+  background:  rgb(194, 138, 162);
+  position: fixed;
+  top:0;
+  left: 0;
+
+
+
+
+
+}
 
 p, ol, ul {
     line-height: 1.5;
