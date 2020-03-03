@@ -157,7 +157,7 @@ a {
 
 /* for a menu for all recipes */
 ul.recipes {
-  border: 1px solid gray;
+  border: 1px solid purple ;
   width: 12%;
   float:right;
   font-size: 50%;
