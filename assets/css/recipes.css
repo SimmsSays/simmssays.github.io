@@ -124,10 +124,11 @@ td, th {
 }
 
 header.site-header {
-  width: 100%;
+  width: 50%;
   text-align: left;
   background:  rgb(194, 138, 162);
   position: fixed;
+  margin: 10px, 30px;
   top:0;
   left: 0;
 
