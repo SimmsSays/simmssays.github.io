@@ -99,6 +99,13 @@ top: 18px;
 
 }
 
+body.recipe {
+margin: 0;
+background:  rgb(193, 192, 203);
+
+
+}
+
 
 blockquote {
 
