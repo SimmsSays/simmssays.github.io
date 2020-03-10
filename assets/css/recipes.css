@@ -52,8 +52,8 @@ height:60px;
 
 h1.title {
   font-size: 2em;
-  font-family: serif, palantino;
-  text-align: center;
+  font-family: Chalkduster, fantasy;
+  text-align: left ;
   /* height: 70px;  */
 }
 
@@ -210,7 +210,7 @@ ul.recipes {
 }
 
 
-header.site-header .branding {
+header.site-header.branding {
 height:40px;
 
 }
