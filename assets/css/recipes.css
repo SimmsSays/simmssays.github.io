@@ -237,6 +237,8 @@ width: 90%;
 img.cover {
   float:none;
   width:70%;
+  display: block;
+  margin: 0 auto; 
 }
 
 
