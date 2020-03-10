@@ -17,7 +17,7 @@ img {
 }
 
 
-header.site-header .branding {
+header.site-header.branding {
   border-bottom: 4px solid rgb(166, 147, 184);
   width: 100%;
 min-width: 500px;
