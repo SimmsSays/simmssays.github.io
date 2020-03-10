@@ -179,7 +179,7 @@ ul.recipes {
 nav ul
 {
 	font-family: "bree-serif",lato, serif;
-	background: grey;
+	/* background: grey; */
  list-style: none;
 	text-align: left;
   /* margin-left: 10px;
