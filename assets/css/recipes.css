@@ -23,7 +23,7 @@ header.site-header .branding {
   min-width: 500px;
   margin-right: auto;
   margin-left: auto;
-  padding: 0 20px 10px 20px;
+  padding: 10px 20px 10px 20px;
 
 position:fixed;
 top:0px;
@@ -99,7 +99,7 @@ background-color: rgb(166,147,184);
 
 }
 
-.site-title {
+h1.site-title {
   font-size: 1.2em;
 }
 
