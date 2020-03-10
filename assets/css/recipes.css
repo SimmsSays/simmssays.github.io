@@ -20,7 +20,7 @@ img {
 header.site-header .branding {
   border-bottom: 4px solid rgb(166, 147, 184);
   width: 100%;
-  min-width:: 500px;
+min-width:: 500px;
   margin-right: auto;
   margin-left: auto;
   padding: 0 20px 10px 20px;
@@ -54,6 +54,7 @@ h1.title {
   font-size: 50em;
   font-family: serif, palantino;
   text-align: center;
+  height: 40px; 
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
