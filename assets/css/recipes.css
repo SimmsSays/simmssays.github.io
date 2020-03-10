@@ -19,7 +19,7 @@ img {
 
 header.site-header .branding {
   border-bottom: 4px solid rgb(166, 147, 184);
-  width: 80%;
+  width: 100%;
   /* min-width:: 500px; */
   margin-right: auto;
   margin-left: auto;
@@ -64,8 +64,7 @@ main, menu, nav, section, summary {
 body {
     font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
     color: rgb(166, 147, 184);
-    margin: 20px 40px;
-    padding-top: 82px;
+    margin: 70px 40px 0 40px;
     font-size: 1.25em;
     /* padding-top: 50px; */
 }
@@ -103,12 +102,12 @@ background-color: rgb(166,147,184);
 }
 
 img.cover {
-/* float:right; */
+float:right;
 width:15%;
 margin:12px;
-position:absolute;
+/* position:absolute;
 right: 0;
-top: 18px;
+top: 18px; */
 
 }
 
@@ -233,6 +232,11 @@ width: 90%;
   padding: 10px 0px;
 
 
+}
+
+img.cover {
+  float:none;
+  width:80%;
 }
 
 
