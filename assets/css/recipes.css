@@ -63,7 +63,7 @@ main, menu, nav, section, summary {
 
 body {
     font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
-    color: rgb(166, 147, 184);
+    /* color: rgb(166, 147, 184); */
     margin: 70px 40px 0 40px;
     font-size: 1.25em;
     /* padding-top: 50px; */
