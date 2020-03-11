@@ -51,7 +51,8 @@ h1.title {
   font-size: 2em;
   font-family: Chalkduster, fantasy;
   text-align: left ;
-  height: 50px;
+  height: 30px;
+  margin-top: 50px;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
