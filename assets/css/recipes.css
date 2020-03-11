@@ -23,7 +23,7 @@ header.site-header .branding {
   /* min-width: 500px; */
   margin-right: auto;
   margin-left: auto;
-  padding: 0px 20px 10px 20px;
+  padding: 5px 5px 5px 5px;
 
 position:fixed;
 top:0px;
@@ -204,17 +204,17 @@ ul.recipes {
 }
 
 .site-title {
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 
 
 header.site-header.branding {
-height:40px;
+height:20px;
 
 }
 
 body {
-padding-top:10px;
+/* padding-top:10px; */
 margin: 15px;
 font-size: 80%;
 }
@@ -228,8 +228,8 @@ width: 90%;
 
   width: 100%;
   /* min-width: 500px; */
-  margin-right: auto;
-  margin-left: auto;
+  /* margin-right: auto;
+  margin-left: auto; */
   padding: 50px 0px;
 
 
