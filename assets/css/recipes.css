@@ -41,7 +41,7 @@ height:60px;
   /* min-width: 500px; */
   margin-right: auto;
   margin-left: auto;
-  padding: 10px 20px;
+  padding: 100px;
 
 
 }
@@ -105,7 +105,7 @@ h1.site-title {
 img.cover {
 float:right;
 width:15%;
-margin:12px;
+padding: 100px;
 /* position:absolute;
 right: 0;
 top: 18px; */
@@ -194,6 +194,12 @@ color: purple;
 
 }
 
+
+
+
+
+
+
 @media screen and (max-width: 700px) {
 
 
@@ -231,14 +237,14 @@ width: 90%;
   /* min-width: 500px; */
   /* margin-right: auto;
   margin-left: auto; */
-  padding: 50px 0px;
+  padding: 20px 10px;
 
 
 }
 
 img.cover {
   float:none;
-  width:70%;
+  width:60%;
   display: block;
   margin: 0 auto;
 }
