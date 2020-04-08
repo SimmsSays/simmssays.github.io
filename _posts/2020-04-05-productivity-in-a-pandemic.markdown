@@ -3,8 +3,8 @@ layout: post
 title: What I've Learned in Quarantine
 date: 2020-04-05 12:44
 published: true
-header_feature_image:
-caption:
+header_feature_image: _uploads\Quarantine.jpg
+caption: Quarantine 
 tags:    
 - Productivity
 - Pandemic
@@ -18,4 +18,4 @@ Through a hard time like this, **friendships** are something that really get you
 
 I can imagine that a lot of uni students have moved back home sooner than they anticipated and I am one of them. I’m very close to my mum and would usually call her everyday or very frequently whilst I was at uni. I was never particularly homesick but I’ve always counted my mum as one of my best friends. However, **moving home** has been a big adjustment. With uni, comes a lot of freedom and I’ve become so used to doing things on my own terms that living with my 16 year old brother, mum and three dogs (who I’m pretty sure I’m allergic to) basically in captivity, has been a big struggle. It’s an adjustment for all of us and it takes finding a rhythm of finding time for yourself whilst constantly being in each other's space. I have all my meals with my family, we might watch a film or go for a walk, but I also spend time in my room practicing my ukulele or settle in the dining room to get on my work. It's just about finding that balance and not feeling bad for wanting to have some time for yourself.
 
-I’ve also realised that I value **experience** a lot more than ‘stuff’. I’m usually one of these people that buys a lot of unnecessary things and clothes, but I would give it up all of these objects just to be able to go for a coffee and a catch up in a cute little cafe with my friends again. I’ve also decided the decision to apply for my masters this year which I was going to leave for a year and come back to, which has added a lot more workload on my shoulders but I think it’s something I need to do. A lot of people that do a masters are said to do it just for the sake of it, but it’s something I’ve always wanted to and look forward to. But this takes time and money, so I’ve got to get my butt into action. This blog post was the first thing on my to-do list today so that's the first step. 
+I’ve also realised that I value **experience** a lot more than ‘stuff’. I’m usually one of these people that buys a lot of unnecessary things and clothes, but I would give it up all of these objects just to be able to go for a coffee and a catch up in a cute little cafe with my friends again. I’ve also decided the decision to apply for my masters this year which I was going to leave for a year and come back to, which has added a lot more workload on my shoulders but I think it’s something I need to do. A lot of people that do a masters are said to do it just for the sake of it, but it’s something I’ve always wanted to and look forward to. But this takes time and money, so I’ve got to get my butt into action. This blog post was the first thing on my to-do list today so that's the first step.
