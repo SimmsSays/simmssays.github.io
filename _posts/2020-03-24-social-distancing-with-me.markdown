@@ -3,7 +3,7 @@ layout: post
 title: Social Distancing with Me
 date: 2020-03-24 12:43
 published: true
-header_feature_image: _uploads/socialdistancing.jpg
+header_feature_image: /_uploads/socialdistancing.jpg
 caption: Social Distancing
 tags:   
 - Social Distancing
