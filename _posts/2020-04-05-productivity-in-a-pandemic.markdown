@@ -3,8 +3,8 @@ layout: post
 title: What I've Learned in Quarantine
 date: 2020-04-05 12:44
 published: true
-header_feature_image: _uploads\Quarantine.jpg
-caption: Quarantine 
+header_feature_image: /_uploads/Quarantine.jpg
+caption: Quarantine
 tags:    
 - Productivity
 - Pandemic
