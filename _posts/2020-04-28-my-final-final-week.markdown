@@ -11,7 +11,9 @@ tags:
 ---
 I was going to write a very doom and gloom piece about my final week of university but decided that rambling on about that for 500 words or so, wouldn’t be enjoyable for anyone. Instead, this week’s blog is going to be on 7 things I’ve found enjoyable during lockdown. After 6 weeks or so being stuck at home, I’ve managed to find some small things that make the days count a little bit more.
 
+\textcolor{blue}{
 **FaceTime with my Friends**
+}
 
 Having something to look forward to, whether I’ve planned it a week in advance or on the day, is really important for me. After the initial worried chats about what’s going to happen in the future and what’s going on in the news, FaceTiming my friends regularly keeps me sane and are a few hours in the day where I can just chill and talk about nonsense.
 
