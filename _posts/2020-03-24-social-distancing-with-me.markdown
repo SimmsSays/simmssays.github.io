@@ -10,6 +10,7 @@ tags:
 ---
 For this week's post it only seemed to fitting to stage an interview with myself, in honour of these times of **social distancing**. Everyday there are peaks and troughs and whether you live alone, or with housemates or your family, it is easy to feel lonely in these times of never-ending news and panic. For our NHS workers and those working in critical roles such as supermarkets, social distancing isn't a choice they can afford, but the rest of us, it is a necessity. So, over to me...
 
+[![Emily, the Q and the A](/_uploads/Me.jpg)](/_uploads/Me.jpg)
 
 **Q:** How do you feel about social distancing?
 
