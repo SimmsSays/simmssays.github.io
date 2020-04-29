@@ -3,7 +3,7 @@ layout: post
 title: Social Distancing Q&A with Myself
 date: 2020-03-24 12:43
 published: true
-header_feature_image: /_uploads/walle.jpg
+header_feature_image: /_uploads/rdoll.jpg
 caption: Social Distancing
 tags:   
 - Social Distancing
