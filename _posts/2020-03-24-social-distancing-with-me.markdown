@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Distancing with Me
+title: Social Distancing Q&A with Myself
 date: 2020-03-24 12:43
 published: true
 header_feature_image: /_uploads/socialdistancing.jpg

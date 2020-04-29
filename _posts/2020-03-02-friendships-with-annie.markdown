@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friendships with Annie
+title: Friendships Q&A with Annie
 date: 2020-03-02 16:02
 published: true
 header_feature_image: _uploads/AnnieHEADER.jpg

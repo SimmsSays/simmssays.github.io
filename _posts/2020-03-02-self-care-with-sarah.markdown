@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-Care with Sarah
+title: Self-Care Q&A with Sarah
 date: 2020-03-02 16:41
 published: true
 header_feature_image:  _uploads/SarahHEADER.jpg
