@@ -14,7 +14,7 @@ For this week's post it only seemed to fitting to stage an interview with myself
 
 **Q:** How do you feel about social distancing?
 
-**A:** As a self-confessed introvert, the thought of staying in doors surrounded by my books and the recently purchased Disney +, I wasn't as horrified by the thought of it as some people may be. Up until very recently I was still living in my uni house but had booked to go home, months prior to the Coronavirus outbreak. Compared to my uni house, my family home is quite a lot smaller, so I was a little bit anxious about being cooped up in such small confinements, but so far it hasn't been too bad. Like a lot of final-year students it's difficult to get my head around the fact that I will never go back to uni like it's another day of the semester or spend my final months in Oxford surrounded by my friends, which may seem superficial, but still a sad truth. I think everyday will have peaks and troughs, but we just have to accept the fact that this is the new, temporary normal.
+**A:** As a self-confessed introvert, the thought of staying indoors surrounded by my books and the recently purchased Disney +, I wasn't as horrified by the thought of it as some people may be. Up until very recently I was still living in my uni house but had booked to go home, months prior to the Coronavirus outbreak. Compared to my uni house, my family home is quite a lot smaller, so I was a little bit anxious about being cooped up in such small confinements, but so far it hasn't been too bad. Like a lot of final-year students it's difficult to get my head around the fact that I will never go back to uni like it's another day of the semester or spend my final months in Oxford surrounded by my friends, which may seem superficial, but still a sad truth. I think everyday will have peaks and troughs, but we just have to accept the fact that this is the new, temporary normal.
 
 
 **Q:** What do you plan to do with this time?
@@ -24,7 +24,7 @@ For this week's post it only seemed to fitting to stage an interview with myself
 
 **Q:** Have you established any sort of routine?
 
-**A:** Short answer: no. As I mentioned before, my motivation is quite low, which I think ironically is because of how stressed I feel about work. Our graduation has been postponed like most other universities across the country, and even-though I know we will have one, it just seems a little anti-climatic. Also, when I eventually finish my assignments, that's the end of being a student, which is a lil bit scary, so we'll blame that for my procrastination! I do want to establish some sort of routine though, maybe yoga in the morning, but we'll see about that...
+**A:** Short answer: no. As I mentioned before, my motivation is quite low, which I think ironically is because of how stressed I feel about work. Our graduation has been postponed like most other universities across the country, and even-though I know we will have one, it just seems a little anti-climatic. Also, when I eventually finish my assignments, that's the end of being a student, which is a little bit scary, so we'll blame that for my procrastination! I do want to establish some sort of routine though, maybe yoga in the morning, but we'll see about that...
 
 
 **Q:** How are you managing to be social whilst distancing?
