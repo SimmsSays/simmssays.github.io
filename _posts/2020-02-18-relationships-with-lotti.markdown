@@ -55,5 +55,8 @@ Each week a different piece of a Uni student’s life will be covered, whether i
 **Q:** What makes it worth it?
 
 **A:** He’s my best friend. Even if we don’t see each-other for a while, we have so much fun when we’re together, that it makes it all worth it.
-What would you say to people unsure about long distance relationships?
-I would say that it’s really, really difficult so if you’re not 100% committed, don’t bother. There’s no point- let’s not beat around the bush here- it just gets messy, it’s hard, so you have to be in it 100%.
+
+
+**Q:** What would you say to people unsure about long distance relationships?
+
+**A:** I would say that it’s really, really difficult so if you’re not 100% committed, don’t bother. There’s no point- let’s not beat around the bush here- it just gets messy, it’s hard, so you have to be in it 100%.
