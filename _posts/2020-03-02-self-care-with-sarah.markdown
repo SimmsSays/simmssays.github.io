@@ -16,7 +16,7 @@ tags:
 
 **Q:** How much do you value me-time?
 
-**A:** Above everything else, I think, because I’m a much better person when I have time to myself. It sounds awful but if I don’t take time for myself, and don’t take time to think about my stress levels, then I get very distracted and everything builds up, and explodes…I need to concentrate on myself, to be able to concentrate on other people and have more capacity to do that.
+**A:** Above everything else, I think, because I’m a much better person when I have time to myself. It sounds awful but if I don’t take time for myself, and don’t take time to think about my stress levels, then I get very distracted and everything builds up, and explodes… I need to concentrate on myself, to be able to concentrate on other people and have more capacity to do that.
 
 
 **Q:** Is it hard to find time for yourself at uni?
