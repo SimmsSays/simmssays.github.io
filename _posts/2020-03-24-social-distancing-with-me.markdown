@@ -14,12 +14,12 @@ For this week's post it only seemed to fitting to stage an interview with myself
 
 **Q:** How do you feel about social distancing?
 
-**A:** As a self-confessed introvert, the thought of staying indoors surrounded by my books and the recently purchased Disney +, I wasn't as horrified by the thought of it as some people may be. Up until very recently I was still living in my uni house but had booked to go home, months prior to the Coronavirus outbreak. Compared to my uni house, my family home is quite a lot smaller, so I was a little bit anxious about being cooped up in such small confinements, but so far it hasn't been too bad. Like a lot of final-year students it's difficult to get my head around the fact that I will never go back to uni like it's another day of the semester or spend my final months in Oxford surrounded by my friends, which may seem superficial, but still a sad truth. I think everyday will have peaks and troughs, but we just have to accept the fact that this is the new, temporary normal.
+**A:** As a self-confessed introvert, the thought of staying indoors surrounded by my books and the recently purchased Disney +, I wasn't as horrified by the thought of it as some people may be. But at the same time, I recognise that I'm privileged enough to be able to spend my time like this. Up until very recently I was still living in my uni house but had booked to go home, months prior to the Coronavirus outbreak. Compared to my uni house, my family home is quite a lot smaller, so I was a little bit anxious about being cooped up in such small confinements, but so far it hasn't been too bad. Like a lot of final-year students it's difficult to get my head around the fact that I will never go back to uni like it's another day of the semester or spend my final months in Oxford surrounded by my friends, which may seem superficial, but still a sad truth. I think everyday will have peaks and troughs, but we just have to accept the fact that this is the new, temporary normal.
 
 
 **Q:** What do you plan to do with this time?
 
-**A:** Despite being profusely poor, I did invest in Disney + as mentioned above, but I do believe it's an investment into my sanity and happiness, so 100% worth it. I do also have a degree to finish, so I've got a few assignments left to do. My brother bought me a ukulele for my birthday, a couple of months ago, so I may try tuning that and learn some basic tunes, but I don't know how long that will last until I drive my family mad. Apart from that I'm not sure, my motivation is quite low at the moment so I don't want to put too much on my plate.
+**A:** Despite not really being able to afford it, I did invest in Disney + as mentioned above, but maintain it's an investment into my sanity and happiness, so 100% worth it. I do also have a degree to finish, so I've got a few assignments left to do. My brother bought me a ukulele for my birthday, a couple of months ago, so I may try tuning that and learn some basic tunes, but I don't know how long that will last until I drive my family mad. Apart from that I'm not sure, my motivation is quite low at the moment so I don't want to put too much on my plate.
 
 
 **Q:** Have you established any sort of routine?
@@ -33,4 +33,4 @@ For this week's post it only seemed to fitting to stage an interview with myself
 
 **Q:** I can't think of anymore questions, can you?
 
-**A:** No, I think that's all for now friend.  
+**A:** _Leaves interview in dramatic style _
