@@ -25,8 +25,8 @@ Like everyone else it seems, I’ve taken up baking, from slightly sunken bluebe
 It’s taken me awhile to get back into reading, partly due to my current inability to focus on anything, but I have finally managed to finish a book, for what feels like months. I’m currently trying to make my way through the Women’s Prize Longlist, because I think it’s a great way to read a variety of literature and allows me to feel like I’m reading towards a goal. I’ve already read _[Girl, Woman, Other][d2c7661a]_, which I would recommend to anyone who appreciates a carefully crafted story, and have recently devoured _[Weather][c349e48e]_, which feels so timely and really resonated with me. I’m currently reading _[How we Disappeared][5b45d1d0]_ which I haven’t quite got into the rhythm of yet, but think it’s worth pursuing. I try to order my books from a variety of different places to help support the book trade, splitting up my orders between Waterstones, Blackwell's and my local indie shop.
 
   [d2c7661a]: https://www.waterstones.com/book/girl-woman-other/bernardine-evaristo/9780241984994 "Girl, Woman, Other: Waterstones"
-  [c349e48e]: https://blackwells.co.uk/bookshop/product/Weather-by-Jenny-Offill-author/9781783784769 "Weather: Blackwells"
-  [5b45d1d0]: https://blackwells.co.uk/bookshop/product/How-We-Disappeared-by-Jing-Jing-Lee-author/9781786074133 "How we Disappeared: Blackwells"
+  [c349e48e]: https://blackwells.co.uk/bookshop/product/Weather-by-Jenny-Offill-author/9781783784769 "Weather: Blackwell's"
+  [5b45d1d0]: https://blackwells.co.uk/bookshop/product/How-We-Disappeared-by-Jing-Jing-Lee-author/9781786074133 "How we Disappeared: Blackwell's"
 
 **[Jay’s Virtual Pub Quiz][bf758279]**
 
