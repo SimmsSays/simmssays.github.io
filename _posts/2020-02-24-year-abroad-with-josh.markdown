@@ -37,7 +37,7 @@ Likewise, law is one of the more competitive professions, so doing anything to s
 
 **Q:** What are some of your highlights from your year abroad?
 
-**A:** The biggest highlight has to be the people you meet. The sheer breadth of diversity in cultures and backgrounds is breath-taking and something from which you can learn an awful lot. Viewed through this lens you learn so much more than just that for which you have gone on a year abroad.The vast array of subjects I’ve been able to study, despite just doing law modules, has been amazing. This has taken me personally to the UN in Vienna, but I know others have been able to go further afield to Prague or Jerusalem.
+**A:** The biggest highlight has to be the people you meet. The sheer breadth of diversity in cultures and backgrounds is breath-taking and something from which you can learn an awful lot. Viewed through this lens you learn so much more than just that for which you have gone on a year abroad. The vast array of subjects I’ve been able to study, despite just doing law modules, has been amazing. This has taken me personally to the UN in Vienna, but I know others have been able to go further afield to Prague or Jerusalem.
 
 
 **Q:**  How do you keep up contact with people from back home?

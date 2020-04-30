@@ -41,7 +41,7 @@ tags:
 
 **Q:** Do you get homesick?
 
-**A:** ...Quite badly. I just sort of hit a point where I don’t want to see anyone, I just want to see my family. I think there’s probably better ways of dealing with it than just running home each time but it works for me. I am lucky enough that my mum is willing to drive here and pick me up so I don’t have to pay for the train. I think if I had to pay for a train, I would stick it out more and go home less.
+**A:** ... Quite badly. I just sort of hit a point where I don’t want to see anyone, I just want to see my family. I think there’s probably better ways of dealing with it than just running home each time but it works for me. I am lucky enough that my mum is willing to drive here and pick me up so I don’t have to pay for the train. I think if I had to pay for a train, I would stick it out more and go home less.
 
 
 **Q:** Do you feel like other people around you get homesick?
