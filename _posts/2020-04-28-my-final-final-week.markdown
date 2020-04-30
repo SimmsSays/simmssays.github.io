@@ -17,6 +17,7 @@ I was going to write a very doom and gloom piece about my final week of universi
 Having this to look forward to, whether I’ve planned to video call a week in advance or on the day, is really important for me. After the initial worried chats about what’s going to happen in the future and what’s going on in the news, FaceTiming my friends regularly keeps me sane and are a few hours in the day where I can just chill and talk about nonsense.
 
 **Baking**
+[![My attempt at a victoria sponge](/_uploads/cake.jpg)](/_uploads/cake.jpg)
 
 Like everyone else it seems, I’ve taken up baking, from slightly sunken blueberry muffins to a half-decent banana bread. After my creation has been baked, my mum and I sit down with a coffee and that week’s cake, trying to recreate a coffee shop experience. One of the things I miss the most, is a cosy coffee shop, so my version will have to do for the time being.
 
